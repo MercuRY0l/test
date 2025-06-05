@@ -1,7 +1,0 @@
-site_name: My Documentation
-nav:
-- Главная: index.md
-- Установка: setup.md
-- Использование: usage.md
-- Архитектура: architecture.md
-- API: api.md
